@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Park Yong-Ho"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "C:\Users\jhr21\Desktop\박용호 개인정보\사진1.jpg"
   bio              : "Combination of **Physics** & **AI**"
   location         : "Seoul, South Korea"
   email            :
