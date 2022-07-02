@@ -1,9 +1,8 @@
 ---
-title: "Physics"
+title: 'Physics'
 layout: categories
 permalink: /categories/physics/
-taxonomy: physics
+taxonomy: Physics
 author_profile: true
 sidebar main: true
 ---
-
