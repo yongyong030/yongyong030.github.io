@@ -1,28 +1,36 @@
 # main links
 main:
-  - title: "About"
+  - title: 'About'
     url: /about/
-  - title: "Physics"
+  - title: 'Physics'
     url: /categories/physics/
-  - title: "AI"
+  - title: 'Modern Physics'
+    url: /categories/modern_physics/
+  - title: 'AI'
     url: /categories/ai/
-  - title: "Tag"
+  - title: 'Tag'
     url: /tags/
-  - title: "Search"
+  - title: 'Search'
     url: /search/
 
 docs:
-  - title: "Physics"
+  - title: 'Physics'
     children:
-      - title: "Category"
+      - title: 'Category'
         url: /categories/physics/
-      - title: "Tag"
+      - title: 'Tag'
         url: /tags/
-  - title: "AI"
+  - title: 'AI'
     children:
-      - title: "Category"
+      - title: 'Category'
         url: /categories/ai/
-      - title: "Tag"
+      - title: 'Tag'
+        url: /tags/
+  - title: 'MODERN PHYSICS'
+    children:
+      - title: 'Category'
+        url: /categories/modern_physics/
+      - title: 'Tag'
         url: /tags/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
