@@ -116,9 +116,9 @@ author:
     - label: 'Kaggle'
       icon: 'fab fa-fw fa-kaggle'
       url: 'https://www.kaggle.com/aachung'
-    #- label: "Linkedin"
-    #  icon: "fab fa-fw fa-linkedin"
-    #  url: "https://www.linkedin.com/in/yong-ho-park-aa8873233/"
+    - label: 'Linkedin'
+      icon: 'fab fa-fw fa-linkedin'
+      # url: "https://www.linkedin.com/in/yong-ho-park-aa8873233/"
     - label: 'Twitter'
       icon: 'fab fa-fw fa-twitter-square'
       # url: "https://twitter.com/"
@@ -128,9 +128,9 @@ author:
     - label: 'GitHub'
       icon: 'fab fa-fw fa-github'
       url: 'https://github.com/yongyong030'
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://www.instagram.com/yongyong030"
+    - label: 'Instagram'
+      icon: 'fab fa-fw fa-instagram'
+      # url: "https://www.instagram.com/yongyong030"
 
 # Site Footer
 footer:
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: 'Instagram'
       icon: 'fab fa-fw fa-instagram'
-      url: 'https://www.instagram.com/yongyong030'
+      # url: 'https://www.instagram.com/yongyong030'
 
 # Reading Files
 include:
