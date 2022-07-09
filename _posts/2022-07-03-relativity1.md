@@ -21,7 +21,6 @@ use_math: true
 
 # RELATIVITY I
 
-아직 수정 중입니다 ㅜㅜ
 <br>
 
 ## 1.1 특수 상대성 이론 개요
