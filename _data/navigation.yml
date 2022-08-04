@@ -18,8 +18,8 @@ docs:
     children:
       - title: 'Modern Physics'
         url: /physics/mophy/
-      - title: 'Quantum Physics'
-        url: /physics/mophy/
+      - title: 'Optics'
+        url: /physics/optics/
       - title: 'Tag'
         url: /tags/
   - title: 'AI'
